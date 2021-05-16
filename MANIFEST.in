@@ -1,0 +1,4 @@
+recursive-include jqgrid2/public *
+include jqgrid2/public/favicon.ico
+recursive-include jqgrid2/i18n *
+recursive-include jqgrid2/templates *
